@@ -1,0 +1,29 @@
+c:\users\omolo\documents\visual studio 2013\Projects\SteganographySimple\SteganographySimple\bin\Debug\SteganographySimple.exe.config
+c:\users\omolo\documents\visual studio 2013\Projects\SteganographySimple\SteganographySimple\bin\Debug\SteganographySimple.exe
+c:\users\omolo\documents\visual studio 2013\Projects\SteganographySimple\SteganographySimple\bin\Debug\SteganographySimple.pdb
+c:\users\omolo\documents\visual studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.csprojResolveAssemblyReference.cache
+c:\users\omolo\documents\visual studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.Form1.resources
+c:\users\omolo\documents\visual studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.Properties.Resources.resources
+c:\users\omolo\documents\visual studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.csproj.GenerateResource.Cache
+c:\users\omolo\documents\visual studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.exe
+c:\users\omolo\documents\visual studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.pdb
+F:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\bin\Debug\SteganographySimple.exe.config
+F:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\bin\Debug\SteganographySimple.exe
+F:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\bin\Debug\SteganographySimple.pdb
+F:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.csprojAssemblyReference.cache
+F:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.Form1.resources
+F:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.Properties.Resources.resources
+F:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.csproj.GenerateResource.cache
+F:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.csproj.CoreCompileInputs.cache
+F:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.exe
+F:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.pdb
+G:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\bin\Debug\SteganographySimple.exe.config
+G:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\bin\Debug\SteganographySimple.exe
+G:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\bin\Debug\SteganographySimple.pdb
+G:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.csprojAssemblyReference.cache
+G:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.Form1.resources
+G:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.Properties.Resources.resources
+G:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.csproj.GenerateResource.cache
+G:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.csproj.CoreCompileInputs.cache
+G:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.exe
+G:\OLD PC\10GB DRIVE\Visual Studio 2013\Projects\SteganographySimple\SteganographySimple\obj\Debug\SteganographySimple.pdb
